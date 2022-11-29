@@ -6,3 +6,5 @@ Useful links:
 - youtube video to get started: https://www.youtube.com/watch?v=gMOWC61HYGI&t=206s
 
 - Power automate license required.
+
+- For the template URI, you can store it in Azure storage or github (and use the raw link) within the flow.
