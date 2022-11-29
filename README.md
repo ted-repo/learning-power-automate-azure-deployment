@@ -5,3 +5,4 @@ Useful links:
 
 - youtube video to get started: https://www.youtube.com/watch?v=gMOWC61HYGI&t=206s
 
+- Power automate license required.
