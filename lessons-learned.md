@@ -14,3 +14,5 @@ Useful links:
 - basically, the outputs from the previous step is used in the next step in the workflow.
 
 - integration with devops (Github actions and Azure devOps pipelines)
+
+- microsoft learn course catalog on power automate for different workflows: https://learn.microsoft.com/en-us/training/powerplatform/power-automate
