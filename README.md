@@ -10,3 +10,7 @@ Useful links:
 - For the template URI, you can store it in Azure storage or github (and use the raw link) within the flow.
 
 - basically, the outputs from the previous step is used in the next step in the workflow.
+
+- depending on the workflow you may need m365 E3/E5 licenses or premium flow licenses.
+
+- integration with devops (Github actions and Azure devOps pipelines)
