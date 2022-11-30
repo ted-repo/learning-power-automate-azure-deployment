@@ -8,3 +8,5 @@ Useful links:
 - Power automate license required.
 
 - For the template URI, you can store it in Azure storage or github (and use the raw link) within the flow.
+
+- basically, the outputs from the previous step is used in the next step in the workflow.
